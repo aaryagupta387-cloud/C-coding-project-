@@ -1,0 +1,12 @@
+Problem: Sum of Sortable Integers
+
+Status: Not Solved
+
+Approach (My Understanding):
+We need to check values of k that divide n. For each k, we check if the array can be sorted by grouping elements at distance k.
+
+Reason for not solving:
+The logic was difficult and required advanced understanding of grouping and sorting.
+
+Conclusion:
+I attempted the problem but could not fully solve it. I will try again in future.
